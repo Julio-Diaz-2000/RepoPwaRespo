@@ -7,7 +7,6 @@
   "orientation":"portrait",
   "display":"standalone",
   "scope":".",
-  "start_url":"https://julio-diaz-2000.github.io/RepoPwaRespo/",
   "icons":[
     {
       "src":"src/images/icons/icon-144x144.png",
